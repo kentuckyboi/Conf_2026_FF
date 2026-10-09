@@ -28,11 +28,11 @@ window.FF_TASKS = [
     mission: "Strategic Goal 2: Foster excellence in the Extension professional.",
     description: "Walk the poster session and snap a photo with one poster whose work surprised you.",
     icon: "📷" },
-  { id: "T04", name: "What date will ESP celebrate our 100th anniverary?  Hint: not conference, but our birthday.",
+  { id: "T04", name: "What date was ESP started?  Hint: not conference, but our birthday.",
     category: "ESP Identity", proof: "Quiz", points: 2,
     where: "Anytime",
     mission: "ESP heritage and the path to 100 years.",
-    description: "Everyone loves a birthday party, what day will ours be?",
+    description: "Everyone loves a birthday party, what day is ours be?",
     icon: "❓",
    quiz: { q: "What date was ESP founded in this format MM-DD-YYYY?",
             a: ["01-11-1927"] },   
@@ -132,14 +132,14 @@ window.FF_MEMBERS = [
 // Settings (mirrors the Settings tab in the Excel template)
 window.FF_SETTINGS = {
   conferenceName: "ESP National Conference 2026",
-  conferenceStart: "2026-10-05",
-  conferenceEnd: "2026-10-08",
+  conferenceStart: "2026-10-12",
+  conferenceEnd: "2026-10-15",
   targetPoints: 20,
   bronze: 8,
   silver: 14,
   gold: 20,
   chatEnabled: true,
-  moderationEmail: "membership@espnational.org",
+  moderationEmail: "tyrone@kytravels.com",
 };
 
 // Sample chat thread (only used for demonstration).
